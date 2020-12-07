@@ -1,0 +1,6 @@
+Ivanov Ivan Ivanovich M M Allergologist 2 15
+Ivanov Yul Dmitrievich M P 23 57198
+Korzhakova Eleanora Glebovna F P 45 32789
+Markina Marta Andrianovna F M Dentist 3 25
+Emina Lubava Tihonovna F M Surgeon 3 40
+Lachinov Hariton Broneslavovich M P 50 52790
