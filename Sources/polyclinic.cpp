@@ -128,6 +128,7 @@ void Polyclinic::addPerson(Person* addedPerson) {
 }
 
 void Polyclinic::printAllMembers(std::ostream& stream) {
+    stream << "List of all members: \n";
     std::for_each(persons.begin(), persons.end(), [&stream](Person*& obj) {
         stream << obj->getPersonInfo() << std::endl;
     });
